@@ -3,7 +3,7 @@ set streamname "iTrackZ Radio - Killa Cutz - FunkyIdeaz -"
 set streamip "trackz.funkyideaz.org" 
 set streamport "9696" 
 set streamadmin "admin"
-set streampass "iiha1m!"
+set streampass "xxxxx
 
 set radiochan "#funkyideaz" 
 set djchan "#funkyideazdjs"
